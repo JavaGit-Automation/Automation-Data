@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15477" started-at="2022-04-28T16:46:48 IST" finished-at="2022-04-28T16:47:04 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15477" started-at="2022-04-28T16:46:48 IST" finished-at="2022-04-28T16:47:04 IST">
+      <class name="TestNGPractice.NewTest">
+        <test-method status="PASS" signature="fistMethod()[pri:0, instance:TestNGPractice.NewTest@4493d195]" name="fistMethod" duration-ms="15368" started-at="2022-04-28T16:46:48 IST" finished-at="2022-04-28T16:47:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fistMethod -->
+      </class> <!-- TestNGPractice.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
